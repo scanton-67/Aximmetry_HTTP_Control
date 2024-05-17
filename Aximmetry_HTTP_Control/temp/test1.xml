@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<action type="ComposerSetPinValueAction" Module="Root" Pin="CrawlText" Value="The text Stuart wants to display" />
